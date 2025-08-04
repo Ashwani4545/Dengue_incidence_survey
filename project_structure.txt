@@ -1,0 +1,28 @@
+# 🦟 Dengue Prevalence Analysis
+
+This project analyzes the prevalence of Dengue fever using real-world patient datasets. It combines **exploratory data analysis**, **statistical modeling**, and **machine learning** techniques using both **Python** and **R**. The goal is to identify patterns in symptoms, demographics, and blood parameters to support early diagnosis and better understanding of disease spread.
+
+---
+
+## 📁 Project Structure
+
+Dengue_Prevalence_Analysis/
+│
+├── Codes/
+│ ├── Dengue Analysis.ipynb # Main Python analysis notebook
+│ ├── Boxplot_DS.R # R script for boxplot visuals
+│ ├── Histogram_DS.R # R script for histograms
+│ ├── PieChart_DS.R # R script for pie charts
+│ ├── Linear_Regression_Model.R # Linear regression model in R
+│ ├── XG_BOOST_DS.R # Feature prep for XGBoost in R
+│ ├── XG_Boost_Model.R # XGBoost classifier model in R
+│ └── Project_DS.R # Combined R logic
+│
+├── Images/ # All visual outputs
+│
+├── Report and ppt/
+│ ├── DENGUE ANALYSIS.pptx # Presentation slides
+│ ├── Dengue_Prevalnce_Report.docx/pdf # Final project report
+│ ├── Dengue.xlsx, Denguefever.xlsx # Datasets used
+│
+└── README.md
